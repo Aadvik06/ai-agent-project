@@ -142,7 +142,7 @@ Check the job posting for more details.
 ## **Contributions**
 Contributions are welcome! Feel free to submit pull requests or open issues.
 
-📩 **Contact:** [Your Email] | 🌐 [Your LinkedIn/GitHub]
+📩 **Contact:** marwahaaadvik@gmail.com | 🌐 LinkedIn: Aadvik Marwaha
 
 ---
 ## **License**
